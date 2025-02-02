@@ -1,0 +1,5 @@
+Model,Summary,Inference Time (s),Model Size (MB),ROUGE-1,ROUGE-2,ROUGE-L,TOPSIS Score
+facebook/bart-large-cnn,"Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to the natural intelligence displayed by animals and humans. Leading AI textbooks define the field as the study of intelligent agents.",9.748,1549.88,0.454,0.274,0.336,0.8981780727993661
+sshleifer/distilbart-cnn-12-6," Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to the natural intelligence displayed by animals and humans . Leading AI textbooks define the field as the study of intelligent agents .",5.451,1165.43,0.444,0.261,0.342,0.819317643761324
+google/pegasus-xsum,"Artificial intelligence (AI) is the study of intelligent agents, any system that perceives its environment and takes actions that maximize its chance of achieving its goals.",14.42,2173.42,0.328,0.102,0.262,0.33185862694779034
+t5-small,leading AI textbooks define the field as the study of intelligent agents . any system that perceives its environment and takes actions that maximize its chance of achieving its goals .,3.168,230.81,0.25,0.136,0.233,0.11508274284056468
